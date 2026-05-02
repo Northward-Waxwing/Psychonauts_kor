@@ -20,6 +20,9 @@ https://store.steampowered.com/app/3830/Psychonauts/<br>
   ㄴ 패치 전 원본 게임에도 있는 공통적인 이슈입니다<br>
 해결방법은 시작하자마자 마우스 광클 미친듯이 하면 어지간히 해결 될 거예요.<br>
 https://steamcommunity.com/app/3830/discussions/0/3042731710357760635/<br>
+4. "d3dx9_40.dll이(가) 없어 코드 실행을 진행할 수 없습니다. 프로그램을 다시 설치하면 이 문제가 해결될 수 있습니다."<br>
+만약 이런 오류가 뜬다면 direct x redist를 별도로 설치하셔야합니다.<br>
+https://www.microsoft.com/ko-kr/download/details.aspx?id=35<br>
 ## 문의&제보<br>
 번역 적용 안 됨, 출력 오류 등등...<br>
 인디게임 갤러리 "사이코너츠 1(Psychonauts) 한글패치 배포"<br>
