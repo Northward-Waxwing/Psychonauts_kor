@@ -19,7 +19,7 @@ https://steamcommunity.com/app/3830/discussions/0/3042731710357760635/<br>
 ## 문의&제보<br>
 번역 적용 안 됨, 출력 오류 등등...<br>
 인디게임 갤러리 "사이코너츠 1(Psychonauts) 한글패치 배포"<br>
-<br>
+https://gall.dcinside.com/mgallery/board/view?id=indiegame&no=379495&fcno=1999048<br>
 ## 제작에 도움 주신 분들<br>
 **기술지원**: Snowyegret, 응원중<br>
 <br>
