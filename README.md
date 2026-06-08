@@ -10,12 +10,11 @@ https://store.steampowered.com/app/3830/Psychonauts/<br>
 (게임 위치: 스팀 라이브러리 - 게임명 우클릭 - 관리 - 로컬 파일 탐색)<br>
 2. 패치가 적용된 게임을 실행하고 설정에서 자막 옵션을 활성화 합니다.<br>
 ## 스팀덱에서 한글패치 적용하기<br>
-스팀덱에서의 사이코너츠는<br>
-리눅스판을 기본으로 받게 됩니다.<br>
+스팀덱에서의 사이코너츠는 리눅스판을 기본으로 받게 됩니다.<br>
 그럴 경우 정상적으로 패치가 적용이 안되며,<br>
 프로톤을 지정하여 윈도우판으로 받으셔야합니다.<br>
-※링크 참조<br>
-https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187510&page=1<br>
+※링크 참조※<br>
+https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187510&page=1<br><br>
 ## **패치 전 필독사항**<br>
 1. 게임 시작 시, 기존보다 로딩이 길어질 수 있습니다.<br>
 2. 가끔 게임의 자체적인 버그로<br>
