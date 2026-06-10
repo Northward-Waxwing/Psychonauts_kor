@@ -14,9 +14,9 @@ https://store.steampowered.com/app/3830/Psychonauts/<br>
 그럴 경우 정상적으로 패치가 적용이 안되며,<br>
 프로톤을 지정하여 윈도우판으로 받으셔야합니다.<br>
 ※링크 참조※<br>
-https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187510&page=1<br>
+https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187510&page=1<br><br>
 +)스팀덱 버튼 프롬프트 및 조작 최적화 가이드<br>
-https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187631&exception_mode=recommend&page=1<br><br>
+https://gall.dcinside.com/mgallery/board/view/?id=steamdeck&no=187631&exception_mode=recommend&page=1<br>
 ## **패치 전 필독사항**<br>
 1. 게임 시작 시, 기존보다 로딩이 길어질 수 있습니다.<br>
 2. 가끔 게임의 자체적인 버그로<br>
